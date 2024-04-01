@@ -1,0 +1,17 @@
+{
+  "name": "hebcal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hebcal/core": "^5.2.2",
+    "javascript-time-ago": "^2.5.9",
+    "readline-sync": "^1.4.10"
+  }
+}
